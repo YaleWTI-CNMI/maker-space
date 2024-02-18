@@ -25,4 +25,10 @@ click 'Union'. If there are too many parts in your model, you can click the gear
 7. In the 3D printing setup page, select the 3D printer 'Creality Ender-3/Ender-3 v2', 0.4mm nozzle, and PLA for material. 
 8. Click 'Slice' on the top center of the cube. 
 9. When the slicing is done, a button 'Save G Code' will appear on the right bottom of the 3D priting page. Click the button to save the G-code to your computer.
+10. Copy the G-code file to a MicroSD. Insert the MicroSD. Push the button next to the LCD control panel. Turn the button to select "Print from SD". 
+Push the button read the MicroSD and list its files on the LCD. Turn the button to select the file to print. Push the button again to start printing.
 
+<img src="print-from-sd.png"
+     alt="Select all parts of a model"
+     width="200px" height="auto"
+     style="float: left; margin-right: 10px;" />
