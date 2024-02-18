@@ -18,6 +18,7 @@ click 'Union'. If there are too many parts in your model, you can click the gear
 
 <img src="selfcad-select-all.png"
      alt="Select all parts of a model"
+     width="50%" height="auto"
      style="float: left; margin-right: 10px;" />
 
 6. Now click '3D Print' on the tools panel. A new page will be opened in a new tab for 3D printing setup.
